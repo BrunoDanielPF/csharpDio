@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guiandrei\\Desktop\\REPO\\dotNet\\csharpDio\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
-      "projectName": "DigitalInnovationOne",
-      "projectPath": "C:\\Users\\guiandrei\\Desktop\\REPO\\dotNet\\csharpDio\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+      "projectUniqueName": "C:\\Users\\guiandrei\\Desktop\\REPO\\dotNet\\csharpDio\\csharpDio.csproj",
+      "projectName": "csharpDio",
+      "projectPath": "C:\\Users\\guiandrei\\Desktop\\REPO\\dotNet\\csharpDio\\csharpDio.csproj",
       "packagesPath": "C:\\Users\\guiandrei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guiandrei\\Desktop\\REPO\\dotNet\\csharpDio\\DigitalInnovationOne\\obj\\",
+      "outputPath": "C:\\Users\\guiandrei\\Desktop\\REPO\\dotNet\\csharpDio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

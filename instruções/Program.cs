@@ -128,7 +128,24 @@ namespace csharpDio
             }
             catch(InvalidOperationException e)
             {
-                
+                Console.WriteLine(e.Message);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"erro generico: {e.Message}");
+            }
+            finally
+            {
+                Console.WriteLine("até breve!");
+            }
+        }
+        static void InstrucaoUsing(string[] args)
+        {
+            using (System.IO.TextWriter w = System.IO.File.CreateText("teste.txt"))
+            {
+                 w.WriteLine("Line 1");
+                 w.WriteLine("Line 2");
+                 w.WriteLine("Line 3");
             }
         }
     }
